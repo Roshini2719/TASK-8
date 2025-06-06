@@ -1,0 +1,82 @@
+Working and understanding VPN
+  Objective: Understand the role of VPNs in protecting privacy and secure communication.
+ Tools Required
+Microsoft Edge Browser
+
+VeePN browser extension 
+
+Websites for verification:
+
+https://whatismyipaddress.com
+ Step-by-Step Process
+Step 1: Install VeePN Extension in Edge
+Open Microsoft Edge.
+
+Visit the Edge Add-ons store:
+https://microsoftedge.microsoft.com/addons
+
+Search for VeePN.
+
+Click Get → Add Extension.
+
+VeePN icon will now appear in the browser toolbar.
+
+Step 2: Create a VeePN Account
+Click the VeePN extension icon.
+
+Sign up with your email address (Free trial available).
+
+Verify email if required and log in.
+
+Step 3: Connect to a VPN Server
+Click the VeePN icon again.
+
+Choose a server (e.g., closest or a specific country).
+
+Click Connect.
+
+The icon turns green or shows "Connected".
+
+
+Step 4: Verify VPN Status
+Visit https://whatismyipaddress.com
+
+Check that your IP has changed from your original ISP IP.
+
+Note the country/location of the VPN server.
+ Disconnect VPN
+Click the VeePN icon and click Disconnect.
+
+| Feature         | Without VPN            | With VeePN VPN           |
+| --------------- | ---------------------- | ------------------------ |
+| IP Address      | Shows actual ISP IP    | Changed to VPN server IP |
+| Location        | Real geographic region | VPN location (e.g., USA) |
+| DNS Leak        | ISP DNS visible        | Hidden (no leak)         |
+| Speed (example) | 50 Mbps download       | 30–40 Mbps (VPN active)  |
+| Browsing Delay  | Low latency            | Slightly higher latency  |
+
+Summary
+VeePN browser extension on Edge offers easy setup, encrypted traffic, and location masking.
+
+It's suitable for browsing privately, bypassing basic geo-restrictions, and preventing tracking.
+
+However, speed may drop slightly, and advanced features like Kill Switch or full device encryption are only available in the paid version.
+
+It's best for light-to-medium privacy needs (not deep anonymity like Tor).
+VPN Features – Summary
+✅ Key Features:
+Encryption: Secures your internet traffic using AES-256 encryption.
+
+IP Masking: Hides your real IP; shows the VPN server IP.
+
+Kill Switch: Blocks internet if VPN disconnects (Premium only in VeePN).
+
+DNS Leak Protection: Prevents your ISP from seeing DNS queries.
+
+Server Switching: Lets you choose servers in different countries.
+
+No-Logs Policy: Good VPNs don’t store your browsing activity.
+
+Speed Optimization: Some protocols like WireGuard improve speed.
+
+Multi-Device Support: Use VPN on phones, PCs, and browsers.
